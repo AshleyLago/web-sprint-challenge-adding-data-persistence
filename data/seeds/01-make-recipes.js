@@ -20,7 +20,7 @@ const resources = [
 
 const tasks = [
     // Build a Shed
-    {task_description: "Lay the foundation", task_notes: "Use concrete and level it properly.", task_completed: false, project_id: 1},
+    {task_description: "Lay the foundation", task_notes: "Use concrete and level it properly.", task_completed: true, project_id: 1},
     {task_description: "Assemble the frame", task_notes: null, task_completed: false, project_id: 1},
     {task_description: "Install the roof", task_notes: "Ensure proper alignment.", task_completed: false, project_id: 1},
 
